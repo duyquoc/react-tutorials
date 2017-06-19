@@ -1,5 +1,6 @@
+# [React](http://react.theme1.com) documentation
 ## Introduction
-Welcome! First of all, thank you for purchasing this theme. We prepared a throughout documentation to make your experience as pleasant as possible. We tried to cover every aspect of this theme, however, if you still have any questions or need clarification, feel free to email us via [user's page contact form](http://themeforest.net/user/saonho?rel=saonho#contact).
+Welcome! First of all, thank you for purchasing this theme. We prepared a throughout documentation to make your experience as pleasant as possible. We tried to cover every aspect of this theme, however, if you still have any questions or need clarification, feel free to email us via [user's page contact form](http://themeforest.net/user/theme1?rel=theme1#contact).
 
 This theme is built using [Materialize](http://materializecss.com/), a modern responsive front-end framework based on Material Design. Make sure you visit their web-site to learn more about it. Feel free to use all of the elements that framework provides.
 
@@ -236,7 +237,7 @@ You can change the spinner simply by changing the class of div inside of a `div.
 - double-section-far
 - section-far
 
-Check them all out [live on Codepen](http://codepen.io/saonho/pen/OMdqBL).
+Check them all out [live on Codepen](http://codepen.io/theme1/pen/OMdqBL).
 
 ## Favicons
 Favicons are the icons of your web-site that are displayed on various mobile devices. For example, if someone wants to add your site to their home screen, they will view the icon you include. There are quite a few formats you need to handle, inculding iPhone, iPad, Android devices and Microsoft devices. To help you with this process, you can use a touch icons generator web-site, for example [realfavicongenerator.net](http://realfavicongenerator.net).
